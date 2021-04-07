@@ -16,6 +16,7 @@ h1{
     width: 500px;
     padding: 20px;
     border-radius: 25px;
+    text-align: left;
 }
 
 .maindiv footer, td{
@@ -24,4 +25,12 @@ h1{
 
 .maindiv table{
     margin: 0 auto;
+}
+
+.labels{
+    width: 125px;
+}
+
+.inputs{
+    width: 200px;
 }
