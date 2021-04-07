@@ -7,15 +7,21 @@ body{
 h1{
     color:gray;
     font-family: Verdana;
+    text-align: center;
 }
 
 .maindiv{
     background-color: white;
     color: black;
-    width: 300px;
+    width: 500px;
     padding: 20px;
     border-radius: 25px;
-    align-content: center;
 }
 
+.maindiv footer, td{
+    text-align: left;
+}
 
+.maindiv table{
+    margin: 0 auto;
+}
